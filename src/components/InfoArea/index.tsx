@@ -1,5 +1,4 @@
 import * as C from './styles';
-import { FaArrowAltCircleLeft, FaArrowAltCircleRight } from 'react-icons/fa';
 import { AiFillCaretLeft, AiFillCaretRight } from "react-icons/ai";
 import { formatCurrentMonth } from '../../helpers/dateFilter';
 import { ResumeItem } from '../ResumeItem';
